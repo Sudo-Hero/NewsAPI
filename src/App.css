@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.author{
+  position: absolute;
+  right: 1rem;
+  top: -9px;
+}
+
+.mtop-5{
+  margin-top: 5rem;
+}
